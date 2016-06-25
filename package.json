@@ -1,0 +1,16 @@
+{
+  "name": "mint-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mint.js",
+  "dependencies": {
+    "pepper-mint": "^0.4.0",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
